@@ -1,0 +1,1 @@
+The purpose of this exercise set is to get practice with test-first programming. Given a set of specifications, write unit tests that check for compliance with the specifications, and then implement code that meets the specifications.
